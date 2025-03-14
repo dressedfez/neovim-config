@@ -39,3 +39,5 @@ luac.out
 *.x86_64
 *.hex
 
+# Remove this if you want to lock the versions of the plugins
+lazy-lock.json
