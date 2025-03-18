@@ -1,6 +1,6 @@
 return {
   "zbirenbaum/copilot.lua",
-:  cmd = "Copilot",
+  cmd = "Copilot",
   build = ":Copilot auth",
   event = "BufReadPost",
   opts = {
